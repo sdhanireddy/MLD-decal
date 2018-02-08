@@ -361,5 +361,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+#extras
+*.csv
 
 # End of https://www.gitignore.io/api/git,macos,python,windows,pycharm,sublimetext,jupyternotebook
